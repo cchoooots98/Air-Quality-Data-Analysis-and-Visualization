@@ -57,12 +57,12 @@ This project analyzes and visualizes urban air pollution data using MATLAB, focu
 ---
 
 ## 📂 File Structure
-📁 air_quality/
+```text
+air_quality/
 ├── AirQualityUCI.csv           # Raw dataset
 ├── airQualityAnalysis0808.mlx  # Main live script (EDA + modeling)
-└── results/
-    └── summary.pdf             # Brief findings report 
-
+└── summary.pdf             # Brief findings report 
+```
 ---
 
 ## 📌 Requirements
